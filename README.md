@@ -2,7 +2,7 @@
 
 In this project, I implemented an action recognition system which can recognize 5 types of human action: kick, punch, stand, wave, squat.
 
-# installation
+# Installation
 
 check the: settings/library.txt
 
@@ -10,7 +10,7 @@ check the: settings/library.txt
 
 python3 src/run_detector.py --images_source webcam
 
-# implementation
+# mplementation
 
 Have 5 types of action: kick, punch, stand, wave, squat. The length of each video about 2 minutes and each video only contains one type of action with a frame size of 640x480, and then saved to images.
 
