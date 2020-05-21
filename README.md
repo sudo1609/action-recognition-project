@@ -6,7 +6,7 @@ In this project, I implemented an action recognition system which can recognize 
 
 check the: settings/library.txt
 
-#Run real-time action recognition
+# Run real-time action recognition
 
 python3 src/run_detector.py --images_source webcam
 
@@ -36,6 +36,6 @@ The generated training data files are located in data folder:
 
 I built a neural network by using Keras. the model consists of three hidden layers and a softmax output layer to conduct a 5-class classification.
 
-The model implemented in action_training.ipynb.
+The model implemented in [action_training.ipynb](https://github.com/TheK2NumberOne/action-recognition-project/blob/master/action-recognition-using-pose%20estimation-2D/src/Training_action.ipynb).
 
-The generated model is saved in model folder.
+The generated model is saved in [model](https://github.com/TheK2NumberOne/action-recognition-project/tree/master/action-recognition-using-pose%20estimation-2D/model) folder.
