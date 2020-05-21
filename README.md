@@ -4,11 +4,11 @@ In this project, I implemented an action recognition system which can recognize 
 
 # Installation
 
-check the: settings/library.txt
+check the: settings/library.txt: [here](https://github.com/TheK2NumberOne/action-recognition-project/blob/master/action-recognition-using-pose%20estimation-2D/setting/library.txt)
 
 # Run real-time action recognition
 
-python3 src/run_detector.py --images_source webcam
+> python3 src/run_detector.py --images_source webcam
 
 # Implementation
 
@@ -22,9 +22,9 @@ The output skeleton format of OpenPose can be found at OpenPose Demo - Output.
 
 The generated training data files are located in data folder:
 
-+ skeleton_raw.csv: original data
++ [skeleton_raw.csv](https://github.com/TheK2NumberOne/action-recognition-project/blob/master/action-recognition-using-pose%20estimation-2D/data/skeleton_raw.csv): original data
 
-+ skeleton_filtered.csv: filtered data where incomplete poses are eliminated
++ [skeleton_filtered.csv](https://github.com/TheK2NumberOne/action-recognition-project/blob/master/action-recognition-using-pose%20estimation-2D/data/skeleton_filtered.csv): filtered data where incomplete poses are eliminated
 
 # Data processing
 
