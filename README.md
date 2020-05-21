@@ -10,11 +10,11 @@ check the: settings/library.txt
 
 python3 src/run_detector.py --images_source webcam
 
-# mplementation
+# Implementation
 
 Have 5 types of action: kick, punch, stand, wave, squat. The length of each video about 2 minutes and each video only contains one type of action with a frame size of 640x480, and then saved to images.
 
-# Get Skeleton from image
+# Get skeleton from image
 
 I used OpenPose to detect the human pose in each training images.
 
