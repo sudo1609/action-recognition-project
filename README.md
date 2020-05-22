@@ -18,7 +18,7 @@ Have 5 types of action: kick, punch, stand, wave, squat. The length of each vide
 
 I used OpenPose to detect the human pose in each training images.
 
-The output skeleton format of OpenPose can be found at OpenPose Demo - Output.
+The output skeleton format of OpenPose can be found at [OpenPose Demo - Output](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/output.md).
 
 The generated training data files are located in data folder:
 
