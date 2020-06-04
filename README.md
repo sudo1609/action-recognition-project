@@ -39,3 +39,5 @@ I built a neural network by using Keras. the model consists of three hidden laye
 The model implemented in [action_training.ipynb](https://github.com/TheK2NumberOne/action-recognition-project/blob/master/action-recognition-using-pose%20estimation-2D/src/Training_action.ipynb).
 
 The generated model is saved in [model](https://github.com/TheK2NumberOne/action-recognition-project/tree/master/action-recognition-using-pose%20estimation-2D/model) folder.
+
+You can replace neural network with a LSTM network for higher performance.
