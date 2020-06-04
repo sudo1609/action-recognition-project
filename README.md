@@ -40,4 +40,4 @@ The model implemented in [action_training.ipynb](https://github.com/TheK2NumberO
 
 The generated model is saved in [model](https://github.com/TheK2NumberOne/action-recognition-project/tree/master/action-recognition-using-pose%20estimation-2D/model) folder.
 
-You can replace neural network with a LSTM network for higher performance.
+You can replace Fully connected neural network with a LSTM network for higher performance.
