@@ -43,5 +43,7 @@ The generated model is saved in [model](https://github.com/TheK2NumberOne/action
 You can replace Fully connected neural network with a LSTM network for higher performance.
 
 # Acknowledgement
-    [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
-    [Human Pose Estimation Benchmarking and Action Recognition](https://github.com/ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition)
+
+   [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
+    
+   [Human Pose Estimation Benchmarking and Action Recognition](https://github.com/ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition)
